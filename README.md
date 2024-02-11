@@ -1,8 +1,6 @@
 # rl-algo-implementations
 
-This repository is a place to store some of the algorithms I implemented when learning RL in 2020/2021. 
-
-It's a bit thrown together at the minute, so I will look to add more and improve presentation/commentary in due course.
+This repository is a place to store some of the algorithms I implemented when learning RL in 2020/2021. They are all done in Python using various Atari games with the Gym library.
 
 Heres a list of the algorithms:
 
@@ -22,3 +20,5 @@ Heres a list of the algorithms:
 - Proximal Policy Optimisation (PPO)
 
 Where Neural Networks are required, there's a mix of Pytorch, Tensorflow and pure Numpy implementations.
+
+It's a bit thrown together at the minute, so I will look to add more and improve presentation/commentary in due course.
